@@ -1,2 +1,3 @@
 # ScientificLinuxMemo
-Memorandum on Scientific Linux
+
+https://github.com/h-sendai/ScientificLinuxMemo/wiki
